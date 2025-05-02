@@ -1,0 +1,3 @@
+Alice: Engenheira de Dados
+Bruno: Analista de Suporte
+Carla: Desenvolvedora Full Stack
