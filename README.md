@@ -1,2 +1,2 @@
 # AI-workflow-testes
-Some small project using OPENAI api 
+Small project using OPENAI api 
